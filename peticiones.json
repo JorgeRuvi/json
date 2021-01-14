@@ -1,0 +1,111 @@
+{"data":
+	[
+        {   "id": 1,
+            "gedeon": 101112,
+            "estado": "Tramitada",
+            "aplicacion": "ATPR",
+            "analistas": "99GU0001,99GU0002",
+            "esfuerzo": 150,
+            "fcnecesidad": "01/07/2021"
+        },
+        {
+            "id": 2,
+            "gedeon": 101121,
+            "estado": "Tramitada",
+            "aplicacion": "ATPR",
+            "analistas": "99GU0001",
+            "esfuerzo": 850,
+            "fcnecesidad": "21/03/2021"
+        },
+        {
+            "id": 3,
+            "gedeon": 101134,
+            "estado": "En curso",
+            "aplicacion": "ATPH",
+            "analistas": "99GU0003",
+            "esfuerzo": 302,
+            "fcnecesidad": "10/04/2021"
+        },
+        {
+            "id": 4,
+            "gedeon": 101180,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0004",
+            "esfuerzo": 50,
+            "fcnecesidad": "14/09/2021"
+        },                    
+        {
+            "id": 5,
+            "gedeon": 101181,
+            "estado": "Estimada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0004",
+            "esfuerzo": 50,
+            "fcnecesidad": "14/10/2021"
+        },
+        {
+            "id": 6,
+            "gedeon": 101182,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0005",
+            "esfuerzo": 50,
+            "fcnecesidad": "14/10/2021"
+        },
+        {
+            "id": 7,
+            "gedeon": 101184,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        },
+        {
+            "id": 8,
+            "gedeon": 101185,
+            "estado": "En curso",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        },
+        {
+            "id": 9,
+            "gedeon": 101186,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        },
+        {
+            "id": 10,
+            "gedeon": 101187,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        },
+        {
+            "id": 11,
+            "gedeon": 101188,
+            "estado": "Tramitada",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        },
+        {
+            "id": 12,
+            "gedeon": 101189,
+            "estado": "En curso",
+            "aplicacion": "C3XX",
+            "analistas": "99GU0007",
+            "esfuerzo": 50,
+            "fcnecesidad": "19/11/2021"
+        }
+    ]
+}
